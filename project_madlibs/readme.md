@@ -1,0 +1,1 @@
+A super basic word game. I`m not creative enough to come up with interesting sentences by my self so i copied them from an online source. link to the source:https://www.it.iitb.ac.in/~vijaya/ssrvm/worksheetscd/getWorksheets.com/Language%20Arts/madlibsdoc.pdfhttps://www.it.iitb.ac.in/~vijaya/ssrvm/worksheetscd/getWorksheets.com/Language%20Arts/madlibsdoc.pdf
