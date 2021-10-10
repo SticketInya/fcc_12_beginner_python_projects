@@ -1,0 +1,1 @@
+This is a simple Rock Paper Scissors (rps) game with one round per game.
